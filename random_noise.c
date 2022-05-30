@@ -1,4 +1,4 @@
-/* plays some random noise*/
+/*	plays some random noise	*/
 
 #include "alsa/asoundlib.h"
 
