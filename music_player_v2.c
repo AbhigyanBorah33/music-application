@@ -1,4 +1,4 @@
-/*******     to play audio, ./a.out wav_file_name     ********/
+/*******     to play audio, ./a.out <wav_file_name>     ********/
 
 #include <alsa/asoundlib.h>
 #define PCM_DEVICE "hw:1,0"
